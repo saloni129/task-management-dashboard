@@ -18,7 +18,7 @@ A modern, responsive task management application built with React, demonstrating
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://your-username.github.io/task-management-dashboard)**
+**[View Live Demo](https://task-management-dashboard-52nexmvf2.vercel.app/)**
 
 ## 📸 Screenshots
 
