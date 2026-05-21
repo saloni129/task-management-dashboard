@@ -2,6 +2,8 @@
 
 A modern, responsive task management application built with React, demonstrating best practices in component architecture, state management, and UI/UX design.
 
+Updated by AI agent
+
 ![Task Dashboard](./screenshots/dashboard-light.png)
 
 ## ✨ Features
