@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+// Tailwind CSS v4 compatible configuration
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
