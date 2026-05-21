@@ -46,3 +46,5 @@ A modern, responsive task management application built with React, demonstrating
 ```bash
 git clone https://github.com/saloni129/task-management-dashboard.git
 cd task-management-dashboard
+
+Updated by AI agent
