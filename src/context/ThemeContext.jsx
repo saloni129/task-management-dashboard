@@ -30,9 +30,9 @@ export const ThemeProvider = ({ children }) => {
   };
 
   return (
-    <ThemeContext.Provider value={value}>
+    <ThemeContext value={value}>
       {children}
-    </ThemeContext.Provider>
+    </ThemeContext>
   );
 };
 
